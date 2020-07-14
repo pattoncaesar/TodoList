@@ -18,5 +18,7 @@
 - 當 develop 完成 release plan 後，另開 release branch
 - 測試完成後才會 merge 到 master
 
-
+## 使用 Laradock 注意
+Laravel -> .env
+DB_HOST 127.0.0.1 -> mysql
 
